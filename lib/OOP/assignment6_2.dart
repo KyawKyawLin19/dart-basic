@@ -2,8 +2,10 @@ void main()
 {
   Shape s1 = Circle();
   s1.draw();
+
   Shape s2 = Square();
   s2.draw();
+
   Shape s3 = Triangle();
   s3.draw();
 }
